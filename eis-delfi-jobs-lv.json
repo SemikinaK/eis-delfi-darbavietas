@@ -1,1 +1,13 @@
-
+{
+	"jobs": [{
+			"title": "Senior CI/CD Engineer",
+			"url": "https://careers.eisgroup.com/postings/e8426aaf-c713-4808-ab66-66acbf7a23d8?token=VNPds1bUnA4u7DT97cEusi3n&utm_source=delfi&utm_medium=link&utm_campaign=Delfi+Senior+CI%2FCD+Engineer&utm_id=recruitment",
+			"location": "Rīga"
+		},
+		{
+			"title": "Senior IBM Cloud / Infrastructure as Code Engineer",
+			"url": "https://careers.eisgroup.com/postings/d91ed868-160e-4b48-93ee-6878c37197b4?token=9d7whrTuq14YYwrFQ3buDGb2&utm_source=delfi&utm_medium=link&utm_campaign=Delfi+Senior+IBM+Cloud+Infrastructure+as+Code+Engineer&utm_id=recruitment",
+			"location": "Rīga"
+		}
+	]
+}
